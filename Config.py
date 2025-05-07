@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/6/19 2:44 下午
-# @Author  : Haonan Wang
-# @File    : Config.py
-# @Software: PyCharm
+
 import os
 import torch
 import time
